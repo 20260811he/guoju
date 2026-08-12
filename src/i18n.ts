@@ -2,7 +2,7 @@ export type Language = "zh" | "en" | "ja"
 
 export const translations = {
   zh: {
-    title: "国产剧",
+    title: "国产剧宾果",
     subtitle: "点击选择你看过的国产电视剧",
     website: " ",
     watchedCount: "我看过 {{count}}/{{total}} 部国产剧",
