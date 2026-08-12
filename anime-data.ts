@@ -1729,7 +1729,7 @@ const data: Data = {
       score: 7.8,
     },
   ],
-  "2023a": [
+  "2023": [
     {
       titleZh: "漫长的季节",
       titleEn: "Frieren: Beyond Journey's End",
@@ -1803,7 +1803,7 @@ const data: Data = {
       score: 7.8,
     },
   ],
-   "2023-1": [
+   "2023.1": [
        {
       titleZh: "异人之下",
       titleEn: "Farming Life in Another World",
