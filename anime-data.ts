@@ -1711,7 +1711,7 @@ const data: Data = {
       score: 6.9,
     },
     {
-      titleZh: "雪中悍刀行",
+      titleZh: "少年歌行",
       titleEn: "Akebi's Sailor Uniform",
       titleJa: "明日ちゃんのセーラー服",
       score: 7.5,
