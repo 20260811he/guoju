@@ -62,7 +62,6 @@ const data: Data = {
       score: 7.8,
     },
     { titleZh: "铁齿铜牙纪晓岚", titleEn: "Kanon", titleJa: "Kanon", score: 7.7 },
-    { titleZh: "小宝与康熙", titleEn: "NANA", titleJa: "NANA", score: 8 },
     {
       titleZh: "陆小凤之凤舞九天",
       titleEn: "×××HOLiC",
