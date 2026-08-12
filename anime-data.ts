@@ -12,6 +12,82 @@ type Data = {
 }
 
 const data: Data = {
+   "2003": [
+    {
+      titleZh: "天龙八部 胡军版",
+      titleEn: "Death Note",
+      titleJa: "DEATH NOTE",
+      score: 8.4,
+    },
+    {
+      titleZh: "射雕英雄传 李亚鹏版",
+      titleEn: "Higurashi When They Cry",
+      titleJa: "ひぐらしのなく頃に",
+      score: 8,
+    },
+    {
+      titleZh: "金粉世家",
+      titleEn: "Code Geass: Lelouch of the Rebellion",
+      titleJa: "コードギアス 反逆のルルーシュ",
+      score: 8.3,
+    },
+    {
+      titleZh: "还珠格格3",
+      titleEn: "Welcome to the N.H.K.",
+      titleJa: "NHKにようこそ!",
+      score: 8.2,
+    },
+    {
+      titleZh: "倚天屠龙记03版",
+      titleEn: "Fate/stay night",
+      titleJa: "Fate/stay night",
+      score: 7.1,
+    },
+    {
+      titleZh: "孝庄秘史",
+      titleEn: "The Melancholy of Haruhi Suzumiya",
+      titleJa: "涼宮ハルヒの憂鬱",
+      score: 8.2,
+    },
+    {
+      titleZh: "神医喜来乐",
+      titleEn: "The Familiar of Zero",
+      titleJa: "ゼロの使い魔",
+      score: 7,
+    },
+    {
+      titleZh: "走向共和",
+      titleEn: "Black Lagoon",
+      titleJa: "BLACK LAGOON",
+      score: 7.8,
+    },
+    { titleZh: "少年天子", titleEn: "Kanon", titleJa: "Kanon", score: 7.7 },
+    { titleZh: "传奇皇帝朱元璋", titleEn: "NANA", titleJa: "NANA", score: 8 },
+    {
+      titleZh: "征服",
+      titleEn: "×××HOLiC",
+      titleJa: "×××HOLiC",
+      score: 7.8,
+    },
+    {
+      titleZh: "大染坊",
+      titleEn: "Katekyo Hitman Reborn!",
+      titleJa: "家庭教師ヒットマンREBORN!",
+      score: 7.5,
+    },
+    {
+      titleZh: "玉观音",
+      titleEn: "Ouran High School Host Club",
+      titleJa: "桜蘭高校ホスト部",
+      score: 7.6,
+    },
+    {
+      titleZh: "炊事班的故事",
+      titleEn: "Honey and Clover II",
+      titleJa: "ハチミツとクローバーII",
+      score: 8.5,
+    },
+  ],
    "2005": [
     {
       titleZh: "汉武大帝",
