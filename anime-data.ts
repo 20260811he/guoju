@@ -2021,6 +2021,38 @@ const data: Data = {
       score: 6.2,
     },
   ],
+   "2026": [
+     {
+      titleZh: "太平年",
+      titleEn: "Gachiakuta",
+      titleJa: "ガチアクタ",
+      score: 6.2,
+    },
+     {
+      titleZh: "低智商犯罪",
+      titleEn: "Gachiakuta",
+      titleJa: "ガチアクタ",
+      score: 6.2,
+    },
+     {
+      titleZh: "主角",
+      titleEn: "Gachiakuta",
+      titleJa: "ガチアクタ",
+      score: 6.2,
+    },
+     {
+      titleZh: "生命树",
+      titleEn: "Gachiakuta",
+      titleJa: "ガチアクタ",
+      score: 6.2,
+    },
+     {
+      titleZh: "危险关系",
+      titleEn: "Gachiakuta",
+      titleJa: "ガチアクタ",
+      score: 6.2,
+    },
+      ],
 }
 
 // 添加一个辅助函数来根据语言获取动画标题
