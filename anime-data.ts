@@ -1991,7 +1991,7 @@ const data: Data = {
       score: 6.7,
     },
     {
-      titleZh: "忘了我记得",
+      titleZh: "海市蜃楼",
       titleEn: "Food for the Soul",
       titleJa: "日々は過ぎれど飯うまし",
       score: 7.7,
@@ -2003,7 +2003,7 @@ const data: Data = {
       score: 6.9,
     },
     {
-      titleZh: "雁回时",
+      titleZh: "反人类暴行",
       titleEn: "The Fragrant Flower Blooms with Dignity",
       titleJa: "薫る花は凛と咲く",
       score: 7,
@@ -2048,6 +2048,12 @@ const data: Data = {
     },
      {
       titleZh: "危险关系",
+      titleEn: "Gachiakuta",
+      titleJa: "ガチアクタ",
+      score: 6.2,
+    },
+     {
+      titleZh: "逐玉",
       titleEn: "Gachiakuta",
       titleJa: "ガチアクタ",
       score: 6.2,
