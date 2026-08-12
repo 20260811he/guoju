@@ -50,7 +50,7 @@ const data: Data = {
       score: 8.2,
     },
     {
-      titleZh: "都是天使惹的祸",
+      titleZh: "封神榜",
       titleEn: "The Familiar of Zero",
       titleJa: "ゼロの使い魔",
       score: 7,
@@ -735,7 +735,7 @@ const data: Data = {
       score: 7.2,
     },
     {
-      titleZh: "远去的飞鹰",
+      titleZh: "活佛济公",
       titleEn: "Oreimo",
       titleJa: "俺の妹がこんなに可愛いわけがない",
       score: 7.1,
@@ -768,7 +768,7 @@ const data: Data = {
     },
     { titleZh: "毛骗 第二季", titleEn: "Nichijou", titleJa: "日常", score: 8.5 },
     {
-      titleZh: "请你原谅我",
+      titleZh: "新水浒",
       titleEn: "Fate/Zero",
       titleJa: "Fate/Zero",
       score: 8.1,
