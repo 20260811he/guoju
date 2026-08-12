@@ -901,12 +901,6 @@ const data: Data = {
       score: 8.1,
     },
     {
-      titleZh: "毛骗终结篇",
-      titleEn: "My Teen Romantic Comedy SNAFU",
-      titleJa: "やはり俺の青春ラブコメはまちがっている。",
-      score: 7.5,
-    },
-    {
       titleZh: "陆贞传奇",
       titleEn: "Tamako Market",
       titleJa: "たまこまーけっと",
@@ -1096,7 +1090,7 @@ const data: Data = {
       score: 8.3,
     },
     {
-      titleZh: "虎妈猫爸",
+      titleZh: "毛骗 终结篇",
       titleEn: "Owarimonogatari",
       titleJa: "終物語",
       score: 7.8,
