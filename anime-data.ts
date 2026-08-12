@@ -88,6 +88,82 @@ const data: Data = {
       score: 8.5,
     },
   ],
+    "2004": [
+    {
+      titleZh: "铁齿铜牙纪晓岚3",
+      titleEn: "Death Note",
+      titleJa: "DEATH NOTE",
+      score: 8.4,
+    },
+    {
+      titleZh: "神探狄仁杰 第一部",
+      titleEn: "Higurashi When They Cry",
+      titleJa: "ひぐらしのなく頃に",
+      score: 8,
+    },
+    {
+      titleZh: "水月洞天",
+      titleEn: "Code Geass: Lelouch of the Rebellion",
+      titleJa: "コードギアス 反逆のルルーシュ",
+      score: 8.3,
+    },
+    {
+      titleZh: "连城诀",
+      titleEn: "Welcome to the N.H.K.",
+      titleJa: "NHKにようこそ!",
+      score: 8.2,
+    },
+    {
+      titleZh: "四大名捕",
+      titleEn: "Fate/stay night",
+      titleJa: "Fate/stay night",
+      score: 7.1,
+    },
+    {
+      titleZh: "大唐双龙传",
+      titleEn: "The Melancholy of Haruhi Suzumiya",
+      titleJa: "涼宮ハルヒの憂鬱",
+      score: 8.2,
+    },
+    {
+      titleZh: "马大帅",
+      titleEn: "The Familiar of Zero",
+      titleJa: "ゼロの使い魔",
+      score: 7,
+    },
+    {
+      titleZh: "福星高照猪八戒",
+      titleEn: "Black Lagoon",
+      titleJa: "BLACK LAGOON",
+      score: 7.8,
+    },
+    { titleZh: "隋唐英雄传", titleEn: "Kanon", titleJa: "Kanon", score: 7.7 },
+    { titleZh: "快乐星球 第一部", titleEn: "NANA", titleJa: "NANA", score: 8 },
+    {
+      titleZh: "小兵张嘎",
+      titleEn: "×××HOLiC",
+      titleJa: "×××HOLiC",
+      score: 7.8,
+    },
+    {
+      titleZh: "十八岁的天空",
+      titleEn: "Katekyo Hitman Reborn!",
+      titleJa: "家庭教師ヒットマンREBORN!",
+      score: 7.5,
+    },
+    {
+      titleZh: "金枝欲孽",
+      titleEn: "Ouran High School Host Club",
+      titleJa: "桜蘭高校ホスト部",
+      score: 7.6,
+    },
+    {
+      titleZh: "红粉世家",
+      titleEn: "Honey and Clover II",
+      titleJa: "ハチミツとクローバーII",
+      score: 8.5,
+    },
+  ],
    "2005": [
     {
       titleZh: "汉武大帝",
