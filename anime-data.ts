@@ -365,7 +365,6 @@ const data: Data = {
       score: 7.8,
     },
     { titleZh: "亮剑", titleEn: "Kanon", titleJa: "Kanon", score: 7.7 },
-    { titleZh: "传奇皇帝朱元璋", titleEn: "NANA", titleJa: "NANA", score: 8 },
     {
       titleZh: "欢天喜地七仙女",
       titleEn: "×××HOLiC",
