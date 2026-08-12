@@ -1729,7 +1729,7 @@ const data: Data = {
       score: 7.8,
     },
   ],
-  "2023": [
+  "2023A": [
     {
       titleZh: "漫长的季节",
       titleEn: "Frieren: Beyond Journey's End",
@@ -1802,13 +1802,57 @@ const data: Data = {
       titleJa: "天国大魔境",
       score: 7.8,
     },
-    {
+  ],
+   "2023B": [
+       {
       titleZh: "异人之下",
       titleEn: "Farming Life in Another World",
       titleJa: "異世界のんびり農家",
       score: 6.4,
     },
-  ],
+       {
+      titleZh: "曾少年之小时候",
+      titleEn: "Farming Life in Another World",
+      titleJa: "異世界のんびり農家",
+      score: 6.4,
+    },
+       {
+      titleZh: "破事精英2",
+      titleEn: "Farming Life in Another World",
+      titleJa: "異世界のんびり農家",
+      score: 6.4,
+    },
+       {
+      titleZh: "故乡，别来无恙",
+      titleEn: "Farming Life in Another World",
+      titleJa: "異世界のんびり農家",
+      score: 6.4,
+    },
+       {
+      titleZh: "父辈的荣耀",
+      titleEn: "Farming Life in Another World",
+      titleJa: "異世界のんびり農家",
+      score: 6.4,
+    },
+       {
+      titleZh: "当我飞奔向你",
+      titleEn: "Farming Life in Another World",
+      titleJa: "異世界のんびり農家",
+      score: 6.4,
+    },
+       {
+      titleZh: "尘封十三载",
+      titleEn: "Farming Life in Another World",
+      titleJa: "異世界のんびり農家",
+      score: 6.4,
+    },
+       {
+      titleZh: "显微镜下的大明之丝绢案",
+      titleEn: "Farming Life in Another World",
+      titleJa: "異世界のんびり農家",
+      score: 6.4,
+    },
+     ],
   "2024": [
     {
       titleZh: "山花烂漫时",
