@@ -566,7 +566,7 @@ const data: Data = {
       score: 6.8,
     },
     {
-      titleZh: "震撼世界的七日",
+      titleZh: "甜蜜蜜",
       titleEn: "Spice and Wolf",
       titleJa: "狼と香辛料",
       score: 7.8,
@@ -604,7 +604,7 @@ const data: Data = {
       score: 7.8,
     },
     {
-      titleZh: "东方朔",
+      titleZh: "新不了情",
       titleEn: "Sekirei",
       titleJa: "セキレイ",
       score: 6.2,
