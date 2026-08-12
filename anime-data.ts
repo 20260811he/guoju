@@ -213,7 +213,6 @@ const data: Data = {
       score: 7.8,
     },
     { titleZh: "少年天子", titleEn: "Kanon", titleJa: "Kanon", score: 7.7 },
-    { titleZh: "传奇皇帝朱元璋", titleEn: "NANA", titleJa: "NANA", score: 8 },
     {
       titleZh: "征服",
       titleEn: "×××HOLiC",
@@ -227,16 +226,16 @@ const data: Data = {
       score: 7.5,
     },
     {
-      titleZh: "玉观音",
-      titleEn: "Ouran High School Host Club",
-      titleJa: "桜蘭高校ホスト部",
-      score: 7.6,
-    },
-    {
       titleZh: "炊事班的故事",
       titleEn: "Honey and Clover II",
       titleJa: "ハチミツとクローバーII",
       score: 8.5,
+    },
+        {
+      titleZh: "玉观音",
+      titleEn: "Ouran High School Host Club",
+      titleJa: "桜蘭高校ホスト部",
+      score: 7.6,
     },
   ],
     "2004": [
