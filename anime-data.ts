@@ -654,6 +654,12 @@ const data: Data = {
       titleJa: "そらのおとしもの",
       score: 7.3,
     },
+     {
+      titleZh: "蜗居",
+      titleEn: "Heaven's Lost Property",
+      titleJa: "そらのおとしもの",
+      score: 7.3,
+    },
     {
       titleZh: "生死线",
       titleEn: "Saki",
