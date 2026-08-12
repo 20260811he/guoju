@@ -857,13 +857,13 @@ const data: Data = {
     },
     { titleZh: "楚汉传奇", titleEn: "Another", titleJa: "Another", score: 7 },
     {
-      titleZh: "麻辣女兵",
+      titleZh: "北京青年",
       titleEn: "The Pet Girl of Sakurasou",
       titleJa: "さくら荘のペットな彼女",
       score: 7.4,
     },
     {
-      titleZh: "胜女的代价",
+      titleZh: "金太狼的幸福生活",
       titleEn: "Psycho-Pass",
       titleJa: "PSYCHO-PASS サイコパス",
       score: 7.9,
