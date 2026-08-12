@@ -661,12 +661,6 @@ const data: Data = {
       score: 7.5,
     },
     {
-      titleZh: "大秦帝国之裂变",
-      titleEn: "White Album",
-      titleJa: "WHITE ALBUM",
-      score: 7.3,
-    },
-    {
       titleZh: "一起来看流星雨",
       titleEn: "Fairy Tail",
       titleJa: "FAIRY TAIL",
@@ -733,12 +727,6 @@ const data: Data = {
       titleEn: "The World God Only Knows",
       titleJa: "神のみぞ知るセカイ",
       score: 7.2,
-    },
-    {
-      titleZh: "大秦帝国之纵横",
-      titleEn: "Amagami SS",
-      titleJa: "アマガミSS",
-      score: 7.3,
     },
     {
       titleZh: "远去的飞鹰",
@@ -911,12 +899,6 @@ const data: Data = {
       titleEn: "My Teen Romantic Comedy SNAFU",
       titleJa: "やはり俺の青春ラブコメはまちがっている。",
       score: 7.5,
-    },
-    {
-      titleZh: "大秦帝国之纵横",
-      titleEn: "Non Non Biyori",
-      titleJa: "のんのんびより",
-      score: 8,
     },
     {
       titleZh: "陆贞传奇",
