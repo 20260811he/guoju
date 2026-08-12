@@ -747,13 +747,13 @@ const data: Data = {
       score: 7.8,
     },
     {
-      titleZh: "老大的幸福",
+      titleZh: "乡村爱情故事",
       titleEn: "Kiss × Sis",
       titleJa: "kiss×sis",
       score: 6.7,
     },
     {
-      titleZh: "娘妻",
+      titleZh: "手机",
       titleEn: "Working!",
       titleJa: "WORKING!!",
       score: 7.5,
