@@ -818,7 +818,7 @@ const data: Data = {
     { titleZh: "宫锁心玉", titleEn: "GOSICK", titleJa: "GOSICK", score: 7.3 },
   ],
   "2012": [
-    { titleZh: "心术", titleEn: "Hyouka", titleJa: "氷菓", score: 8.2 },
+    { titleZh: "大秦帝国之纵横", titleEn: "Hyouka", titleJa: "氷菓", score: 8.2 },
     {
       titleZh: "北京爱情故事",
       titleEn: "JoJo's Bizarre Adventure",
